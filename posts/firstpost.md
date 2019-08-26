@@ -25,3 +25,6 @@ function myCommand() {
 }
 ```
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+
+First edit on first posts are definitely the best.
